@@ -1,4 +1,6 @@
-# A Card List App with react.js which searches for robots and filters them.
+# Intro
+
+A Card List App with react.js which searches for robots and filters them.
 
 # Getting Started with Create React App
 
